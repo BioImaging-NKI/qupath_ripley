@@ -1,2 +1,2 @@
-# qupath_ripley
+# Ripleys analysis in QuPath
 Ripleys analysis in QuPath

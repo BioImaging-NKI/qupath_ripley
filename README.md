@@ -16,5 +16,13 @@ Figures have been made with [this jupyternotebook](src/python/RipleySimulation.i
 ## Groovy Script
 Groovy script can be found [here](src/groovy/RipleyQuPath.groovy).
 
+It requires a line annotation and a multipoint annotation:
+![QuPath screenshot](imgs/QuPath_Start.jpg?raw=true "QuPath")
+After running the script a graph of the ripley curve is shown and the raw data is saved as .tsv.
+![QuPath screenshot](imgs/QuPath_Graph.PNG?raw=true "QuPath")
+The annotations and a link to the image can be found [here](example_data). There is also an annotation with a different set of points. The resulting graph in QuPath for them looks like this:
+![QuPath screenshot](imgs/QuPath_Graph_nc.PNG?raw=true "QuPath")
+
+
 ## References
 Original paper for 2D point patterns: https://doi.org/10.2307/3212829 

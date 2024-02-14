@@ -1,0 +1,4 @@
+notebook
+pandas
+plotly
+pyarrow

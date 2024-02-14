@@ -2,7 +2,7 @@
 One dimensional Ripleys analysis of points on a line. This analysis looks at the interpoint distances and normalizes them for a random distribution. The resulting graph shows deviation from zero for clustered points. Edge correction is done by "connecting" the endpoints of the line. This imposes a symmetry on the the resulting ripley curve, because each set of two points has two paths to connect them. 
 
  ## Simulations
-Simulations have been performed in [python]((src/python/RipleySimulation.ipynb)). 
+Simulations have been performed in python. 
 
 Ripley curve when simulating 100 random points on a line of 10 μm long:
 ![100 random points](imgs/random.png?raw=true "Random")

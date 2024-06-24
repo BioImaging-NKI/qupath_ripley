@@ -31,5 +31,8 @@ by: Marta Ciwinska, Hendrik A. Messal, Hristina Hristova, Catrin Lutz, Laura Bor
 
 Corresponding authors: Colinda Scheele: (colinda.scheele@kuleuven.be), Jacco van Rheenen: (j.v.rheenen@nki.nl) and Benjamin Simons: (bds10@cam.ac.uk)
 
+## Technical questions
+r.harkes@nki.nl or bioimaging@nki.nl
+
 ## References
 Original paper for 2D point patterns: https://doi.org/10.2307/3212829 

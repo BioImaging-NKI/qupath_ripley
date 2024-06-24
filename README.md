@@ -25,6 +25,11 @@ After running the script a graph of the ripley curve is shown and the raw data i
 
 The annotations and a link to the image can be found [here](example_data).
 
+## Usage
+### Field cancerization in mammary tissue is driven by protection mechanisms that clear mutations
+by: Marta Ciwinska, Hendrik A. Messal, Hristina Hristova, Catrin Lutz, Laura Bornes, Theofilius Chalkiadakis, Rolf Harkes, Nathalia S.M. Langedijk, Stefan J. Hutten, Jos Jonkers, Stefan Prekovic, Grand Challenge PRECISION consortium, Benjamin D. Simons, Colinda L.G.J. Scheele, and Jacco van Rheenen
+
+Corresponding authors: Colinda Scheele: (colinda.scheele@kuleuven.be), Jacco van Rheenen: (j.v.rheenen@nki.nl) and Benjamin Simons: (bds10@cam.ac.uk)
 
 ## References
 Original paper for 2D point patterns: https://doi.org/10.2307/3212829 
